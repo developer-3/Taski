@@ -37,3 +37,20 @@
     clear: both;
 }
 
+#modal {
+    opacity: 1;
+}
+
+#popup-content {
+    background: #282c34;
+    float: left;
+}
+
+#popup-actions {
+    background: #282c34;
+    float: left;
+}
+
+.d-flex {
+    display: flex;
+}
